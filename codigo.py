@@ -17,3 +17,5 @@ pyautogui.write("minhasenha")
 pyautogui.press("tab")
 pyautogui.press("enter")
 time.sleep(5)
+import pandas
+
